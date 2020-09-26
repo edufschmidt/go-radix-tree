@@ -1,5 +1,7 @@
 # go-radix-tree
 
+[![codecov](https://codecov.io/gh/edufschmidt/go-radix-tree/branch/master/graph/badge.svg)](https://codecov.io/gh/edufschmidt/go-radix-tree)
+
 Simple implementation of compressed radix trees in Go.
 
 A radix tree is a space-optimized/compressed version of a standard [trie](https://en.wikipedia.org/wiki/Trie), with every node that is a single child being merged with their parent. Unlike regular tries, the edges of a radix tree can hold strings, not only single characters.
