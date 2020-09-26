@@ -6,9 +6,12 @@ A radix tree is a space-optimized/compressed version of a standard [trie](https:
 
 ### References
 [Wikipedia article about Radix trees](https://en.wikipedia.org/wiki/Radix_tree)
+
 [Compressing radix trees without too many tears](https://medium.com/basecs/compressing-radix-trees-without-too-many-tears-a2e658adb9a0)
 
 ### Related projects
 [armon/go-radix](https://github.com/armon/go-radix)
+
 [asergeyev/nradix/](https://github.com/asergeyev/nradix/)
+
 [zmap/go-iptree](https://github.com/zmap/go-iptree)
