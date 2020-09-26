@@ -1,5 +1,6 @@
 # go-radix-tree
 
+![CI](https://github.com/edufschmidt/go-radix-tree/workflows/CI/badge.svg?branch=master&event=check_run)
 [![codecov](https://codecov.io/gh/edufschmidt/go-radix-tree/branch/master/graph/badge.svg)](https://codecov.io/gh/edufschmidt/go-radix-tree)
 
 Simple implementation of compressed radix trees in Go.
